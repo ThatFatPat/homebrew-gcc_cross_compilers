@@ -1,4 +1,4 @@
-class X8664Objconv < Formula
+class Objconv < Formula
   desc "Object file converter and disassembler"
   homepage "https://www.agner.org/optimize/#objconv"
   url "https://www.agner.org/optimize/objconv.zip"
